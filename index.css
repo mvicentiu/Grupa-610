@@ -1,0 +1,55 @@
+
+.center{
+  text-align: center;
+}
+
+p{
+  font-family: system-ui;
+}
+
+h1, h2, h4 {
+  font-family: serif;
+}
+
+body{
+  background-color: rgb(166, 207, 226);
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 80%
+}
+
+.image {
+  flex-basis: 40%
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+ 
